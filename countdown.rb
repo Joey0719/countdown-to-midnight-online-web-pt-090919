@@ -22,4 +22,3 @@ while num > 0
   
 end
   "HAPPY NEW YEAR"
-end
